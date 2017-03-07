@@ -57,7 +57,11 @@
   <item
       android:id="@+id/show_hide_res"
       android:icon="@drawable/ic_plus_white"
+<<<<<<< HEAD
       android:title="@string/menu_time"
+=======
+      android:title="@string/show_resolved"
+>>>>>>> d0135160001377866e2b344ef747c5d30f91eb83
       auto:showAsAction="never">
 
 
